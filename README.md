@@ -1,2 +1,2 @@
 # mobile-pwa-app_gem
-ChatGPT pwa app sample
+Gemini pwa app sample
