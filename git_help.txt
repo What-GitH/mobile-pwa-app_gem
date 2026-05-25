@@ -1,2 +1,21 @@
+#.Git 초기화:
+git init
+
+#.원격 저장소 연결:
 git remote add origin https://github.com/What-GitH/mobile-pwa-app_gem.git
+
+#.변경된 파일 확인:
+git status
+
+#.모든 파일 스테이징:
+git add .
+
+#.커밋:
+git commit -m "첫 커밋"
+
+#.기본 브랜치 이름 확인:
+git branch -M main
+
+#.원격 저장소로 push:
+git push -u origin main
 
