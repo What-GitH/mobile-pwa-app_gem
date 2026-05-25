@@ -1,0 +1,2 @@
+git remote add origin https://github.com/What-GitH/mobile-pwa-app_gem.git
+
